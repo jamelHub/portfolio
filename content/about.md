@@ -139,15 +139,12 @@ list:
 ---history[0]
 title: Employment
 list:
-  - name: MetaVerse Inc.
-    description: Web3 Developer
-    date: 2020-Present
-  - name: Vircil Intl Co..
-    description: Back-End Developer and Designer
-    date: 2018-2020
-  - name: Crowdcube Inc.
-    description: Technical Support
-    date: 2018-2015
+  - name: EmkaMed.
+    description: Software engineer 
+    date: 2020-present
+  - name: A3e engineering.
+    description: Embedded System Developer
+    date: 2018-2018
 ---
 
 
@@ -155,13 +152,10 @@ list:
 ---history[1]
 title: Education
 list:
-  - name: Stanford university
-    description: MSc (Computer Science)
-    date: 2006-2010
-  - name: University of Los Angeles
-    description: MSc (Human Computer Interaction)
-    date: 2010-2014
-  - name: Berkeley University
-    description: MSc (Information Technology)
-    date: 2015-2019
+  - name: Master Software engineering and rapid development 
+    description: Higher Institute of Technological Studies of Sousse.
+    date: 2018-2020
+  - name: Bachelor Embedded system and mobile application.
+    description: Higher Institute of Technological Studies of Sousse.
+    date: 2015-2018
 ---
