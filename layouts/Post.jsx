@@ -87,9 +87,6 @@ const Layout = ({
           </div>
 
           <div className="mt-6 grid gap-6 md:mt-12 md:grid-cols-[auto_3fr_auto] md:gap-0">
-            <div>
-              <SocialShare url={pageUrl} className="sticky left-10 top-12 z-10" />
-            </div>
             <div className="prose prose-invert mx-auto max-w-prose prose-pre:max-w-[90vw]">
               <ContentRenderer source={content} />
             </div>

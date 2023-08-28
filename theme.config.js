@@ -48,11 +48,11 @@ export const menu = [
     slug: '/services',
     Icon: SlBriefcase,
   },
-  {
+  /*   {
     name: 'Articles',
     slug: '/blog',
     Icon: TfiPencilAlt,
-  },
+  }, */
   {
     name: 'Projects',
     slug: '/projects',
@@ -71,18 +71,8 @@ export const menu = [
 
 export const social = [
   {
-    name: 'Twitter',
-    url: 'https://www.twitter.com/',
-    Icon: IoLogoTwitter,
-  },
-  {
-    name: 'Instagram',
-    url: 'https://www.instagram.com/',
-    Icon: IoLogoInstagram,
-  },
-  {
     name: 'LinkedIn',
-    url: 'https://www.linkedin.com/',
+    url: 'https://www.linkedin.com/in/mohamed-jamel-khiareddine-b81994149/',
     Icon: IoLogoLinkedin,
   },
 ]

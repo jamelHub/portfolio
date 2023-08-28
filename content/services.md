@@ -2,7 +2,7 @@
 layout: Services
 seo:
   title: Web Development Services
-  description: Custom description for this page goes here
+  description: My web development services.
 ---
 
 
@@ -18,93 +18,83 @@ seo:
 
 ###### Solving problems
 
-I design products that are more than pretty. I make them shippable and usable.
-Et tempor non mollit dolor et do aute voluptate ea ullamco.
+I develop products that are suits the client needs, easy to use and maintainable. 
 
 ###### What you can expect
 
-- Design Strategy
-- Web and Mobile App Design
-- Front-end Development
+- Back-end development.
+- Front-end Development.
+- Performance Optimization.
+- Time Management.
 
 ###### Applications I'm fluent in
 
-- Design Strategy
-- Web and Mobile App Design
-- Front-end Development
+- Back-end application
+- Front-end application
+- Mobile application
 
 <Sep size="12" />
-
-<Button href="/contact" variant="white" size="sm">
-  Get Free Price Quote
-</Button>
 
 
 
 ---services[0]
-title: Web and Mobile App Design
+title: Back-end development
 icon:
-  src: /icons/mobile-app.svg
+  src: /icons/back-end.svg
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
-
-    - <strong>Design Strategy</strong>
-    - <strong>Web and Mobile App Design</strong>
-    - <strong>Front-end Development</strong>
+ Building the server-side components and infrastructure that power websites and web applications
+     - <strong>Data Management</strong>
+    - <strong>Server Logic</strong>
+    - <strong>API Development</strong>
 
 </small>
 
 
 
 ---services[1]
-title: Project Strategy & Development
+title: Front-end Development
 icon:
-  src: /icons/prisma.svg
+  src: /icons/front-end.svg
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
+   Building the user interface and user experience of websites and web applications
 
-    - <strong>Design Strategy</strong>
-    - <strong>Web and Mobile App Design </strong>
-    - <strong>Front-end Development</strong>
+    - <strong> Responsive Design </strong>
+    - <strong> User Experience </strong>
+    - <strong> User Interface </strong>
 
 </small>
 
 
 
 ---services[2]
-title: UI/UX Design & Optimization
+title: Performance Optimization
 icon:
-  src: /icons/dashboard.svg
+  src: /icons/Performance.svg
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
+Improving the speed, efficiency, and overall responsiveness. 
 
-    - <strong>Design Strategy</strong>
-    - <strong>Web and Mobile App Design</strong>
-    - <strong>Front-end Development</strong>
+    - <strong>Analysis and Profiling</strong>
+    - <strong>Asynchronous Loading</strong>
+    - <strong>Lazy Loading</strong>
 </small>
 
 
 
 ---services[3]
-title: Application Audit & Debugging
+title: Time Management & Debugging
 icon:
-  src: /icons/audit.svg
+  src: /icons/time-management.svg
 ---
 
 <small>
-  Defining the problem, identifying the scope and finally, organizing. Et tempor non mollit dolor et
-  do aute voluptate ea ullamco culpa pariatur.
-
-  - <strong>Design Strategy </strong>
-  - <strong>Web and Mobile App Design </strong>
-  - <strong>Front-end Development</strong>
+   The ability to estimate how long time the task need and use debugging to fix errors.
+  - <strong>Task Breakdown</strong>
+  - <strong>Prioritization</strong>
+  - <strong>Problem-Solving</strong>
 </small>

@@ -33,7 +33,8 @@ const SuccessMessage = ({ handleReset }) => (
 )
 
 const Badge = () => (
-  <div>
+ 
+ <div>
     <a
       className="group h-6 text-omega-400 no-underline"
       target="_blank"
@@ -89,8 +90,9 @@ const Newsletter = ({ className }) => {
 
   return (
     <div className={className}>
-      <IntroMessage />
-      {isSubmitSuccessful ? (
+{/*       <IntroMessage />
+ */}      
+ {isSubmitSuccessful ? (
         <SuccessMessage handleReset={reset} />
       ) : (
         <form
@@ -126,7 +128,6 @@ const Newsletter = ({ className }) => {
           </Button>
         </form>
       )}
-      <Badge />
     </div>
   )
 }
